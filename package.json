@@ -1,0 +1,19 @@
+{
+  "name": "withings-api",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Deerhake <jdeerhake@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.34.0",
+    "promise": "~4.0.0",
+    "lodash": "~2.4.1",
+    "mustache": "~0.8.1",
+    "oauth": "~0.9.11",
+    "mathjs": "~0.20.0"
+  }
+}
